@@ -1,0 +1,24 @@
+1.enter  sudo nano /etc/inittab
+
+2.Look for the line:
+
+1:2345:respawn:/sbin/ getty 115200 tty1
+3.Just add a "#" infront of it to disable it
+4.Add this line under it:
+
+1:2345:respawn:/bin/login -f pi tty1</dev/tty1>/dev/tty1 2>&1
+
+III. making camera run at startup 
+1.install netcat on raspberry pi: 
+
+sudo apt-get install mplayer netcat
+
+2. run config - set camera enable from options
+
+3.run sudo nano /etc/rc.local  // this file contains all line commands run at startup
+
+4. just add:
+sleep(60);  // this is because after many tries,I came to the conclusion that the dongle does not have enough time to connect to pc
+
+raspivid -t 999999 -o -| nc 192.168.1.15 5001 // or your own configured ip - this streams the video directly to the ip mentioned(present in current network) on the port 5001 in this case 
+
