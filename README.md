@@ -5,7 +5,7 @@ Project: LEDify
 Mentor---
 =====================
 Participants:
-
+===
 Verdes Andrei-Vlad
 ====
 Rosu George
