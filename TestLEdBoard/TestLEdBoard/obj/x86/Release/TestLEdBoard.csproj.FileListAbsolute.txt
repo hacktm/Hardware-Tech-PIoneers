@@ -1,0 +1,7 @@
+E:\Hactm\TestLEdBoard\TestLEdBoard\bin\Release\TestLEdBoard.exe
+E:\Hactm\TestLEdBoard\TestLEdBoard\bin\Release\TestLEdBoard.pdb
+E:\Hactm\TestLEdBoard\TestLEdBoard\obj\x86\Release\TestLEdBoard.Base.resources
+E:\Hactm\TestLEdBoard\TestLEdBoard\obj\x86\Release\TestLEdBoard.Properties.Resources.resources
+E:\Hactm\TestLEdBoard\TestLEdBoard\obj\x86\Release\TestLEdBoard.csproj.GenerateResource.Cache
+E:\Hactm\TestLEdBoard\TestLEdBoard\obj\x86\Release\TestLEdBoard.exe
+E:\Hactm\TestLEdBoard\TestLEdBoard\obj\x86\Release\TestLEdBoard.pdb

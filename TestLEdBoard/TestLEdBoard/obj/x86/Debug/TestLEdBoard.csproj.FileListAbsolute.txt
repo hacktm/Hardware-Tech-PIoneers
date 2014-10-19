@@ -1,0 +1,16 @@
+E:\Hactm\TestLEdBoard\TestLEdBoard\bin\Debug\TestLEdBoard.exe
+E:\Hactm\TestLEdBoard\TestLEdBoard\bin\Debug\TestLEdBoard.pdb
+E:\Hactm\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.Base.resources
+E:\Hactm\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.Properties.Resources.resources
+E:\Hactm\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.csproj.GenerateResource.Cache
+E:\Hactm\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.exe
+E:\Hactm\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.pdb
+E:\Hactm\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Andreww\Desktop\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.exe
+C:\Users\Andreww\Desktop\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.pdb
+C:\Users\Andreww\Desktop\TestLEdBoard\TestLEdBoard\bin\Debug\TestLEdBoard.exe
+C:\Users\Andreww\Desktop\TestLEdBoard\TestLEdBoard\bin\Debug\TestLEdBoard.pdb
+C:\Users\Andreww\Desktop\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.csprojResolveAssemblyReference.cache
+C:\Users\Andreww\Desktop\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.Base.resources
+C:\Users\Andreww\Desktop\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.Properties.Resources.resources
+C:\Users\Andreww\Desktop\TestLEdBoard\TestLEdBoard\obj\x86\Debug\TestLEdBoard.csproj.GenerateResource.Cache
