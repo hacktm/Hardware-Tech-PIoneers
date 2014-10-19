@@ -1,11 +1,9 @@
 Hardware-Tech-PIoneers
 ======================
-
-
-<<<<<<< HEAD
-=======
+Project: LEDify
+=====================
 Mentor---
-
+=====================
 Participants:
 
 Verdes Andrei-Vlad
@@ -13,5 +11,5 @@ Rosu George
 Prelipcean Alex
 Dimcea Cristian
 Osvath Markus
+=====================
 
->>>>>>> origin/master
