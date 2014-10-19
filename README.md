@@ -1,6 +1,9 @@
 Hardware-Tech-PIoneers
 ======================
 
+
+<<<<<<< HEAD
+=======
 Mentor---
 
 Participants:
@@ -8,9 +11,7 @@ Participants:
 Verdes Andrei-Vlad
 Rosu George
 Prelipcean Alex
-Dimcea Cristian 
-<<<<<<< HEAD
-=======
-
+Dimcea Cristian
+Osvath Markus
 
 >>>>>>> origin/master
