@@ -2,7 +2,8 @@ Hardware-Tech-PIoneers
 ======================
 Project: LEDify
 =====================
-Mentor---
+Result after image processing: 
+![alt tag](https://raw.githubusercontent.com/hacktm/Hardware-Tech-PIoneers/master/result.jpg)
 =====================
 Participants:
 ===
